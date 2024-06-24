@@ -9,3 +9,5 @@ During the lecture we will use [Colab](https://colab.research.google.com/).
 
 
 # Tutorial 2 - Roberto Netti
+Before the lecture you can already download Tutorial_2.zip containing the necessary data and the Julia Colab Notebook.
+
