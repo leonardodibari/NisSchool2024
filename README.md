@@ -3,7 +3,7 @@ Repository for interactive tutorial material for the course of "Statistical Phys
 
 # Tutorial 1
 
-Download data_Nis_school2024.jld2 containing the necessary data and the Julia Colab Notebook Nis_school_ex1.
+Download data_Nis_school2024.jld2 containing the necessary data and the Julia Colab Notebook Nis_school_ex1.ipynb.
 
 
 # Tutorial 2
